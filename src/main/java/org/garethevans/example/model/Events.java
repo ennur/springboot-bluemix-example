@@ -1,4 +1,4 @@
-package org.garethevans.example;
+package org.garethevans.example.model;
 
 public class Events {
     public String type;
